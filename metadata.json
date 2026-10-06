@@ -1,0 +1,6 @@
+{
+  "name": "SentinelML - Fake Account Detection & Security Audit",
+  "description": "Pre-trained Python machine learning model engine for detecting fake social accounts with real-time audit logging, multi-format forensic reports, and automated PDF certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
